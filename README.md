@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/LivingHopeDev/advice-generator/tree/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://livinghopedev.github.io/advice-generator/)
 
 ## My process
 
@@ -57,8 +57,8 @@ fetch(`https://api.adviceslip.com/advice?timestamp=${timestamp}`);
 
 ## Author
 
-- Frontend Mentor - [Myusername](https://www.frontendmentor.io/profile/LivingHopeDev)
-- Twitter - [Myusername](https://www.twitter.com/adewobiadetayo)
+- Frontend Mentor - [livingHopeDev](https://www.frontendmentor.io/profile/LivingHopeDev)
+- Twitter - [adewobiadetayo](https://www.twitter.com/adewobiadetayo)
 
 ## Acknowledgments
 
